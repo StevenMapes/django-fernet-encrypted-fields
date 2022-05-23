@@ -1,6 +1,7 @@
 [![Build Status](https://api.travis-ci.com/frgmt/django-fernet-encrypted-fields.png)](https://travis-ci.com/frgmt/django-fernet-encrypted-fields)
 [![Pypi Package](https://badge.fury.io/py/django-fernet-encrypted-fields.png)](http://badge.fury.io/py/django-fernet-encrypted-fields)
-
+[![codecov.io](https://codecov.io/github/frgmt/django-fernet-encrypted-fields/coverage.svg?branch=master)]
+(https://codecov.io/github/frgmt/Acc.>/django-fernet-encrypted-fields?branch=master)
 
 ### Django Fernet Encrypted Fields
 
